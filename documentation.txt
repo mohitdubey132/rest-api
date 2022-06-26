@@ -1,0 +1,22 @@
+
+Install  --
+Postgres   password ->github@0 port-> 5432
+Postman
+----------------------------------- build server--------------------
+trrminal -->
+       npm init -y 
+       // to initiailz new project 
+       npm i --save express
+       to install express framwork       
+--------------------------------------------------------------------
+create new folder
+---------------------------------------------------------------------
+pgsql 
+      \conninfo
+      
+You are connected to database "postgres" as user "postgres" on host "localhost" (address "::1") at port "5432".
+to contect to data base
+
+postgres=# \c students;
+You are now connected to database "students" as user "postgres".
+

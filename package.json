@@ -1,0 +1,27 @@
+{
+  "name": "postgresapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemodule": "^0.3.0",
+    "pg": "^8.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homohit/rest-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/homohit/rest-api/issues"
+  },
+  "homepage": "https://github.com/homohit/rest-api#readme",
+  "devDependencies": {}
+}
